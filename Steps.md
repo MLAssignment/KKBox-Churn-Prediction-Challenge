@@ -24,10 +24,10 @@
 [ payment_method_id,is_auto_renew,  is_cancel, city, bd, gender, registered_via]
 
 ### Data Observations
-• Data imbalance - in train data set is_churn value percentages is ~93% for value 0 and ~7% for value 1
-• Gender distribution is pretty equal
-• The majority of users come from city 1
-• The major registration method is 4,9,3
+1. Data imbalance - in train data set is_churn value percentages is ~93% for value 0 and ~7% for value 1
+2. Gender distribution is pretty equal
+3. The majority of users come from city 1
+4. The major registration method is 4,9,3
 
 ## Cleansing Data
 1. Missing value handling
