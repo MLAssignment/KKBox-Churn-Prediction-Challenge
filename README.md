@@ -16,6 +16,6 @@ In this competition, KKBOX’s challenging you to build an algorithm that predic
   1. kk_pred_Decision_Matrix.zip : Compressed file contains churn predictions for test data using Decision Matrix algorithm.
   2. kk_pred_Logistic_Regression.zip: Compressed file contains churn predictions for test data using Logistic Regression algorithm.
   3. kk_pred_Neural_Network.zip: Compressed file contains churn predictions for test data using Neural Network algorithm.
-  4. Churn_Prediction_Graphs.html : Jupyter notebook output of the Churn_Prediction_Graphs.py script
-  5. Churn_PredictionRgression.html : Jupyter notebook output of the Churn_PredictionRgression.py script
+  4. Churn_Prediction_Graphs.html : Jupyter notebook output of the Churn_Prediction_Graphs.py script.
+  5. Churn_PredictionRgression.html : Jupyter notebook output of the Churn_PredictionRgression.py script.
  
